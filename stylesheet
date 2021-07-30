@@ -3,3 +3,6 @@ color: #30583B;
 font-size: 100px;
 }
 
+p {
+color: red;
+}
